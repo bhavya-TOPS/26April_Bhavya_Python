@@ -1,0 +1,7 @@
+What is List? How will you reverse a list? 
+
+--> when you want to store multiple items in a single variable with [] this bracket is called list
+--> list allows a duplicates values
+--> it is order
+--> it maintains a indexes in given left to right order.
+--> we can also able to change the items.

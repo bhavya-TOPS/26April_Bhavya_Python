@@ -1,0 +1,6 @@
+What is tuple? Difference between list and tuple. 
+
+tuples is exactly same like a list but the Difference is in tuple we cannot modify the items while in list we can able to modify the item and the Difference between symbols in list [] having this symbol and in tuple having () having this symbol.
+
+
+tuples means to store more items into the single variables.

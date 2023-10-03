@@ -1,0 +1,5 @@
+Differentiate between append () and extend () methods?
+
+append means add the elements at the end of list,tuples,set etc.
+
+extend means add the elements at the end of the list,tuples,set but with the overwrite of the existing list,tuples,set etc.

@@ -1,0 +1,6 @@
+How will you remove last object from a list? 
+
+--> with the help of the pop() method
+
+here the list1 of last will be 25
+
