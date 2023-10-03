@@ -1,0 +1,3 @@
+What are negative indexes and why are they used? 
+
+--> negative index its main features in pythom that suppose you want to take a number from last at that time negative index are used.. 

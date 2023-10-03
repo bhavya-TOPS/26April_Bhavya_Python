@@ -1,0 +1,3 @@
+What is the purpose continue statement in python ?
+
+--> The purpose of continue statement in python it will continue without printing that statement and next statement it will print. 
