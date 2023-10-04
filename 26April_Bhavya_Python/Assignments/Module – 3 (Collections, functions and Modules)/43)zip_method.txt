@@ -1,0 +1,3 @@
+Why Do You Use the Zip () Method in Python?
+
+--> suppose there are two dictionaries if you to combine that into a single object at that we use zip method
